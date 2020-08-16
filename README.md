@@ -38,7 +38,8 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead.
 
--   [ ] Mention two parts of Express that you learned about this week.
+-   [x] Mention two parts of Express that you learned about this week.
+The two parts of Express we learned. Were Server Side Routing, and Middleware
 
 -   [ ] Describe Middleware?
 
